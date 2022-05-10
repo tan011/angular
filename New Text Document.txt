@@ -1,0 +1,5 @@
+ngModel is a directive which binds input, select and textarea, and stores the required user value in a variable and we can use that variable whenever we require that value. It also is used during validations in a form.
+
+The ng-controller directive adds a controller to your application. In the controller you can write code, and make functions and variables, which will be parts of an object, available inside the current HTML element. In AngularJS this object is called a scope.
+
+AngularJS directives are extended HTML attributes with the prefix ng- . The ng-app directive initializes an AngularJS application. The ng-init directive initializes application data. The ng-model directive binds the value of HTML controls (input, select, textarea) to application data.
